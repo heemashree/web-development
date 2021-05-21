@@ -1,0 +1,28 @@
+.reviewclass
+{
+ float: left; 
+ width:25%; 
+ margin-left: 5%;
+}
+.fillcolorrect
+{                
+                   
+    float: left;
+    margin-left: 5%;
+    height: 100px;
+    width: 25%;
+    border: 5px solid;
+    border-color:maroon;
+}
+#fillcolorone
+{
+    background-color: yellowgreen;
+}
+#fillcolortwo
+{
+    background-color:darkblue;
+}
+#fillcolorthree
+{
+    background-color:darkorange;
+}
